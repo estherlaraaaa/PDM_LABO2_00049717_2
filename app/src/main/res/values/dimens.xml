@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pic_dimen">150dp</dimen>
+    <dimen name="basic_spacing">8dp</dimen>
+</resources>
+
